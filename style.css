@@ -1,9 +1,17 @@
-body{
-   
-}
-
 .titulo-principal{
     padding-left: 20px;
+}
+
+.topo{
+    position: relative;
+    width: 940px;
+    margin: 0px auto;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0px;
 }
 
 .principal{
@@ -56,6 +64,7 @@ li{
 
 .cabecalho{
     background-color: #BBBBBB;
+    padding: 20px 0;
 }
 
 nav li{
