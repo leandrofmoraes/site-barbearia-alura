@@ -1,3 +1,10 @@
+@charset "UTF-8";
+@font-face{
+/*Espaço para inserir fontes
+    font-family:;
+    src: url('');*/
+}
+
 .titulo-principal{
     padding-left: 20px;
 }
@@ -97,6 +104,13 @@ nav a{
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
+
+    /*border-color: 2px;
+    border-width: solid;
+    border-style: #000000;*/
+    border: 2px solid #000000;
+
+    border-radius: 10px;
 }
 
 .produto-descricao{
